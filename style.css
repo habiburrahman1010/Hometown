@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(216, 232, 253);
+ 
+ }
+ h1{
+     text-transform: uppercase;
+     text-align: center;
+     background-color: rgb(115, 173, 164);
+ }
+ 
+ td{
+     padding: 30px;
+ }
+ img{
+     margin-left: 5% ;
+ }
+ h2{
+     padding-bottom: 5px;
+ }
+ #one{
+     font-size: 30px;
+ }
+ 
